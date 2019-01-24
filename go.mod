@@ -1,4 +1,4 @@
-module github.com/prometheus/prom2json
+module github.com/activeshadow/prom2json
 
 require (
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc // indirect
